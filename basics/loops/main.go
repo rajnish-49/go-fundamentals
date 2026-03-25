@@ -9,3 +9,8 @@ func forLoopDemo() {
 	}
 	fmt.Println(sum)
 }
+
+func main() {
+	forLoopDemo()
+	infloop()
+}

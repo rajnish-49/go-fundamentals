@@ -8,3 +8,9 @@ func variable() {
 	var i int
 	fmt.Println(i, c, python, java)
 }
+
+func main() {
+	variable()
+	shortVariableDemo()
+	typesDemo()
+}
